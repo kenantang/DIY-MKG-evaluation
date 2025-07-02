@@ -1,7 +1,6 @@
 # Evaluation Data of DIY-MKG
 
-This repository contains the scripts and data for the evaluation of the EMNLP 2025 Demo submission "DIY-MKG: An LLM-Based Supportive System for Polyglot Language
-Learning".
+This repository contains the scripts and data for the evaluation of the EMNLP 2025 Demo submission "DIY-MKG: An LLM-Based Polyglot Language Learning System".
 
 ## Scripts
 
